@@ -7,6 +7,7 @@ const fetchApi = async (url) => {
     }catch(error){
 console.log(error);
     }
+    
 }
 const gretings = () => {
     console.log('hello there')
